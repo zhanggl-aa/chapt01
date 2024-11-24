@@ -1,0 +1,31 @@
+
+
+
+/* #p1{
+    border: 3px solid lightgreen;
+}
+#p2{
+    border-bottom: 3px solid lightsalmon;
+} */
+
+/* .box{
+    border: 5px solid ;
+    font-size: 5em;
+    width: 250px;
+    height: 250px;
+    margin: auto;
+}
+
+#box1{
+    background-color: aquamarine;
+}
+
+#box2{
+    background-color: crimson;
+} */
+
+div{
+    border: 3px solid;
+    height: 75px;
+    overflow: scroll;
+}
